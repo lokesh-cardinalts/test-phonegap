@@ -1,4 +1,0 @@
-Zepto(function($){
-	myApp.init();
-	
-});
